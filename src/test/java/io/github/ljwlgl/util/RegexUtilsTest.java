@@ -11,7 +11,7 @@ public class RegexUtilsTest {
 
     @Test
     public void testIsNumeric() {
-        assertTrue(RegexUtils.isNumeric("input"));
+        assertTrue(RegexUtils.isNumeric("121212"));
     }
 
     @Test

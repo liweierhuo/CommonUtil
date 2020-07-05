@@ -2,7 +2,7 @@ package io.github.ljwlgl.fileutil;
 
 import com.alibaba.fastjson.*;
 import com.alibaba.fastjson.serializer.PropertyFilter;
-import org.apache.commons.collections.CollectionUtils;
+import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 
 import java.math.BigDecimal;

@@ -1,11 +1,10 @@
 package io.github.ljwlgl.util;
 
-import org.apache.commons.collections.CollectionUtils;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import org.apache.commons.collections4.CollectionUtils;
 
 /**
  * @author zq_gan
